@@ -1,0 +1,120 @@
+[
+  {
+    "title": "FC Sion : Young Boys Bern",
+    "jerseys": {
+      "home": {
+        "player": {
+          "base": "ffffff",
+          "sleeve": "ffffff",
+          "number": "ff0000",
+          "type": "short_sleeves",
+          "sleevelong": "ffffff",
+          "real": true
+        },
+        "GK": {
+          "base": "33ff00",
+          "sleeve": "33ff00",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "real": true
+        }
+      },
+      "away": {
+        "player": {
+          "base": "fcd807",
+          "sleeve": "000000",
+          "number": "000000",
+          "type": "short_sleeves",
+          "sleevelong": "000000",
+          "real": true
+        },
+        "GK": {
+          "base": "02e6f3",
+          "sleeve": "f38e02",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "real": true
+        }
+      }
+    }
+  },
+  {
+    "title": "Feyenoord Rotterdam : FC Groningen",
+    "jerseys": {
+      "home": {
+        "player": {
+          "base": "f4f4f6",
+          "sleeve": "ffffff",
+          "number": "000000",
+          "split": "ff0000",
+          "type": "short_sleeves",
+          "sleevelong": "ff0000",
+          "real": true
+        },
+        "GK": {
+          "base": "ed176f",
+          "sleeve": "ed176f",
+          "number": "020202",
+          "type": "short_sleeves",
+          "real": true
+        }
+      },
+      "away": {
+        "player": {
+          "base": "029b92",
+          "sleeve": "000000",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "sleevelong": "029b92",
+          "real": true
+        },
+        "GK": {
+          "base": "e90000",
+          "sleeve": "66ffff",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "real": true
+        }
+      }
+    }
+  },
+  {
+    "title": "SC Freiburg : Bayern Munich",
+    "jerseys": {
+      "home": {
+        "player": {
+          "base": "ff0008",
+          "sleeve": "ffffff",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "sleevelong": "ff0000",
+          "real": true
+        },
+        "GK": {
+          "base": "90fb21",
+          "sleeve": "fb6721",
+          "number": "0b0909",
+          "type": "short_sleeves",
+          "real": true
+        }
+      },
+      "away": {
+        "player": {
+          "base": "fdfcfc",
+          "sleeve": "ffffff",
+          "number": "f90606",
+          "type": "short_sleeves",
+          "sleevelong": "ff0000",
+          "real": true
+        },
+        "GK": {
+          "base": "faff05",
+          "sleeve": "ba37e9",
+          "number": "ffffff",
+          "type": "short_sleeves",
+          "real": true
+        }
+      }
+    }
+  }
+]
