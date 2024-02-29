@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 import SingleJersey from './components/SingleJersey.vue'
 import PrimaryButton from './components/PrimaryButton.vue'
@@ -6,7 +6,7 @@ import matches from './assets/json/matches.json'
 
 const match = ref(matches[0])
 
-const changeMatch = (index) => {
+const changeMatch = (index: number) => {
   match.value = matches[index]
 }
 </script>
